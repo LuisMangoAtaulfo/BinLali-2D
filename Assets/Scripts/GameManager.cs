@@ -30,6 +30,8 @@ public class GameManager : MonoBehaviour
     void Awake()
     {
         instancia = this;
+        if (seleccionPersonaje == null)
+            seleccionPersonaje = FindObjectOfType<SeleccionPersonaje>();
     }
 
     void Start()

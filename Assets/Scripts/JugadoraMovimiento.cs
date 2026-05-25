@@ -18,6 +18,9 @@ public class JugadoraMovimiento : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+
+        if (GetComponent<PersonajeAnimationController>() == null)
+            gameObject.AddComponent<PersonajeAnimationController>();
     }
 
     void Update()
