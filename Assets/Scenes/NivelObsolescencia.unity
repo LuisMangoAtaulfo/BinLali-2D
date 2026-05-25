@@ -345,7 +345,7 @@ MonoBehaviour:
   pantallaVictoria: {fileID: 1906968630}
   pantallaDerrota: {fileID: 333275595}
   textoTokens: {fileID: 1885527360}
-  seleccionPersonaje: {fileID: 0}
+  seleccionPersonaje: {fileID: 654669004}
 --- !u!4 &238522547
 Transform:
   m_ObjectHideFlags: 0
@@ -1066,10 +1066,64 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca23baec978e449e384e238e152f77a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SeleccionPersonaje
-  spriteNatalia: {fileID: -7411491795044039763, guid: c4011c6fa46454c78a291c6958287251, type: 3}
-  spriteSusy: {fileID: 2168651483077221657, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
-  spriteNani: {fileID: -600129039144830244, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
-  spriteSopas: {fileID: 6544301082862754489, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+  natalia:
+    spritesIdle:
+    - {fileID: -7411491795044039763, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+    - {fileID: -9184181477794179839, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+    - {fileID: 2667266275358098981, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+    - {fileID: 4003239971388578772, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+    - {fileID: -3962162747504202683, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+    - {fileID: -2422842775416681977, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+    spritesWalk:
+    - {fileID: -6640130375266035551, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+    spriteDisparo: {fileID: -7022394134317759970, guid: c4011c6fa46454c78a291c6958287251, type: 3}
+  susy:
+    spritesIdle:
+    - {fileID: 2168651483077221657, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: -8080199442499265637, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: -3962027403541323860, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: -4951735248582398202, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: 3568421583610467813, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    spritesWalk:
+    - {fileID: 5608986156122400101, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: 1101204642846835905, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: -4662034350831430323, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: -3286822461616639266, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: -5073652016301925073, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    - {fileID: 631113638404291150, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+    spriteDisparo: {fileID: -8616159344959117881, guid: 5776ab3ab1523439293df4f39d3da282, type: 3}
+  nani:
+    spritesIdle:
+    - {fileID: -600129039144830244, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: 558638500714607412, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: 4067206182091808484, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: -3643751167707904294, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: -2850025886477414581, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: 602176826783331267, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    spritesWalk:
+    - {fileID: 3859997386741055116, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: 9180726064224349704, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: -5545466656040313788, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: 5490068399602344936, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: 2859253789671498164, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    - {fileID: 3595479818064588169, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+    spriteDisparo: {fileID: 529765510336061332, guid: c1e93919169ee41e3bcb42790a6a4b54, type: 3}
+  sopas:
+    spritesIdle:
+    - {fileID: 6544301082862754489, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: 5781810941135671321, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: 4808939971920119836, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: -2566165518877865905, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: -2361984617743223567, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: -3972895566169718623, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    spritesWalk:
+    - {fileID: 4506071716724535754, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: 1609479088445887920, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: 811166196876963078, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: 6324862455930888945, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: -1701692854066329358, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    - {fileID: -6465016851759900782, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
+    spriteDisparo: {fileID: 1733496921702551196, guid: 4ff366ae6591d40cc8999563fe36f6aa, type: 3}
 --- !u!4 &654669005
 Transform:
   m_ObjectHideFlags: 0
