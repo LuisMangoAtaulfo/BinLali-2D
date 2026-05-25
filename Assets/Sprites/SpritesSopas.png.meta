@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 4ff366ae6591d40cc8999563fe36f6aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6544301082862754489
+    second: SpritesSopas_0
+  - first:
+      213: 5781810941135671321
+    second: SpritesSopas_1
+  - first:
+      213: 4808939971920119836
+    second: SpritesSopas_2
+  - first:
+      213: -2566165518877865905
+    second: SpritesSopas_3
+  - first:
+      213: -2361984617743223567
+    second: SpritesSopas_4
+  - first:
+      213: -3972895566169718623
+    second: SpritesSopas_5
+  - first:
+      213: 4506071716724535754
+    second: SpritesSopas_6
+  - first:
+      213: 1609479088445887920
+    second: SpritesSopas_7
+  - first:
+      213: 811166196876963078
+    second: SpritesSopas_8
+  - first:
+      213: 6324862455930888945
+    second: SpritesSopas_9
+  - first:
+      213: -1701692854066329358
+    second: SpritesSopas_10
+  - first:
+      213: -6465016851759900782
+    second: SpritesSopas_11
+  - first:
+      213: -2457918567417493945
+    second: SpritesSopas_12
+  - first:
+      213: 1106884369140036743
+    second: SpritesSopas_13
+  - first:
+      213: -3041748957564604168
+    second: SpritesSopas_14
+  - first:
+      213: 9090964224117743675
+    second: SpritesSopas_15
+  - first:
+      213: 3783905580730922776
+    second: SpritesSopas_16
+  - first:
+      213: -560327355806247601
+    second: SpritesSopas_17
+  - first:
+      213: -7613074118492569224
+    second: SpritesSopas_18
+  - first:
+      213: 1330116851640886900
+    second: SpritesSopas_19
+  - first:
+      213: -2038145999842314720
+    second: SpritesSopas_20
+  - first:
+      213: -7560863463500344487
+    second: SpritesSopas_21
+  - first:
+      213: -349012852381322408
+    second: SpritesSopas_22
+  - first:
+      213: -4774970500905071655
+    second: SpritesSopas_23
+  - first:
+      213: -5016968283265625805
+    second: SpritesSopas_24
+  - first:
+      213: -8684045281976223816
+    second: SpritesSopas_25
+  - first:
+      213: 8542619604198081037
+    second: SpritesSopas_26
+  - first:
+      213: -5030443048210233327
+    second: SpritesSopas_27
+  - first:
+      213: -5266374080617960792
+    second: SpritesSopas_28
+  - first:
+      213: -175240657303888498
+    second: SpritesSopas_29
+  - first:
+      213: 6427834522332219606
+    second: SpritesSopas_30
+  - first:
+      213: -6664138443865778360
+    second: SpritesSopas_31
+  - first:
+      213: 5034561018886719895
+    second: SpritesSopas_32
+  - first:
+      213: 8429921725058373196
+    second: SpritesSopas_33
+  - first:
+      213: 8644565840331705340
+    second: SpritesSopas_34
+  - first:
+      213: -2483678258206017052
+    second: SpritesSopas_35
+  - first:
+      213: 1733496921702551196
+    second: SpritesSopas_36
+  - first:
+      213: 9117473255016907635
+    second: SpritesSopas_37
+  - first:
+      213: 6950884694425255390
+    second: SpritesSopas_38
+  - first:
+      213: 345676187532519232
+    second: SpritesSopas_39
+  - first:
+      213: -4641114598372230846
+    second: SpritesSopas_40
+  - first:
+      213: 2930603997368575493
+    second: SpritesSopas_41
+  - first:
+      213: -5262138633106302043
+    second: SpritesSopas_42
+  - first:
+      213: 7096406587768214238
+    second: SpritesSopas_43
+  - first:
+      213: 3468121241738282714
+    second: SpritesSopas_44
+  - first:
+      213: -4508543310241225011
+    second: SpritesSopas_45
+  - first:
+      213: -6275084913473862890
+    second: SpritesSopas_46
+  - first:
+      213: -511700447860286412
+    second: SpritesSopas_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesSopas_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 545
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba1d33692702da50800000000000000
+      internalID: 6544301082862754489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 545
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910dbd8ea6e1d3050800000000000000
+      internalID: 5781810941135671321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 545
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c974fc69ccb240800000000000000
+      internalID: 4808939971920119836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 545
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48cd648e06236cd0800000000000000
+      internalID: -2566165518877865905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 545
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f47a76218b883fd0800000000000000
+      internalID: -2361984617743223567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 545
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0cab828807dd8c0800000000000000
+      internalID: -3972895566169718623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 461
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1fcc72a58c88e30800000000000000
+      internalID: 4506071716724535754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 461
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b59c3c14b4065610800000000000000
+      internalID: 1609479088445887920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 461
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60de7aabb57d14b00800000000000000
+      internalID: 811166196876963078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 461
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f227f2a4ec66c750800000000000000
+      internalID: 6324862455930888945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 461
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f84e8c7d5f5268e0800000000000000
+      internalID: -1701692854066329358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 461
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297dfeb2d65a746a0800000000000000
+      internalID: -6465016851759900782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 378
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464e36e518b3edd0800000000000000
+      internalID: -2457918567417493945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 378
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784360e18717c5f00800000000000000
+      internalID: 1106884369140036743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 378
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f07270607989c5d0800000000000000
+      internalID: -3041748957564604168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 378
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a25cbbc7992e70800000000000000
+      internalID: 9090964224117743675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 378
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b513e312238430800000000000000
+      internalID: 3783905580730922776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 378
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f451c371d315938f0800000000000000
+      internalID: -560327355806247601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 303
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c78ecc6de85690800000000000000
+      internalID: -7613074118492569224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 303
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476e0d3ba36857210800000000000000
+      internalID: 1330116851640886900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 306
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f30ff20d07b3e0800000000000000
+      internalID: -2038145999842314720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 305
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95315d63dba621790800000000000000
+      internalID: -7560863463500344487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 306
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f3cfe8ae082bf0800000000000000
+      internalID: -349012852381322408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 303
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db8598d0a5ebbdb0800000000000000
+      internalID: -4774970500905071655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 230
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311d8a6de5206ab0800000000000000
+      internalID: -5016968283265625805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 230
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7766a73d21c7780800000000000000
+      internalID: -8684045281976223816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 230
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c38fe44b7d8670800000000000000
+      internalID: 8542619604198081037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 233
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118889833b6403ab0800000000000000
+      internalID: -5030443048210233327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 230
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa21761da41ae6b0800000000000000
+      internalID: -5266374080617960792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 230
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d1237fc8b619df0800000000000000
+      internalID: -175240657303888498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 154
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ca922171443950800000000000000
+      internalID: 6427834522332219606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 154
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8471b57b4693483a0800000000000000
+      internalID: -6664138443865778360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 154
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79985ca829a5ed540800000000000000
+      internalID: 5034561018886719895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46d37235291df470800000000000000
+      internalID: 8429921725058373196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 154
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb8276b4daa7f770800000000000000
+      internalID: 8644565840331705340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 154
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f44388c3388dd0800000000000000
+      internalID: -2483678258206017052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 78
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e405d044e9e0810800000000000000
+      internalID: 1733496921702551196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 78
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37348667e95c78e70800000000000000
+      internalID: 9117473255016907635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 79
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddbaed5dc0867060800000000000000
+      internalID: 6950884694425255390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 78
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047ef2d39a61cc400800000000000000
+      internalID: 345676187532519232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 79
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b42accd2779fb0800000000000000
+      internalID: -4641114598372230846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5066e700fc89ba820800000000000000
+      internalID: 2930603997368575493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abd6de0bc029f6b0800000000000000
+      internalID: -5262138633106302043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed29aa571308b7260800000000000000
+      internalID: 7096406587768214238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60ccbf4ed312030800000000000000
+      internalID: 3468121241738282714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ab922fbf6e61c0800000000000000
+      internalID: -4508543310241225011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6134afc948b6ae8a0800000000000000
+      internalID: -6275084913473862890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSopas_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c11ed572316e8f0800000000000000
+      internalID: -511700447860286412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00fdb8e6956124c5fa1c0a3c89133535
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SpritesSopas_0: 6544301082862754489
+      SpritesSopas_1: 5781810941135671321
+      SpritesSopas_10: -1701692854066329358
+      SpritesSopas_11: -6465016851759900782
+      SpritesSopas_12: -2457918567417493945
+      SpritesSopas_13: 1106884369140036743
+      SpritesSopas_14: -3041748957564604168
+      SpritesSopas_15: 9090964224117743675
+      SpritesSopas_16: 3783905580730922776
+      SpritesSopas_17: -560327355806247601
+      SpritesSopas_18: -7613074118492569224
+      SpritesSopas_19: 1330116851640886900
+      SpritesSopas_2: 4808939971920119836
+      SpritesSopas_20: -2038145999842314720
+      SpritesSopas_21: -7560863463500344487
+      SpritesSopas_22: -349012852381322408
+      SpritesSopas_23: -4774970500905071655
+      SpritesSopas_24: -5016968283265625805
+      SpritesSopas_25: -8684045281976223816
+      SpritesSopas_26: 8542619604198081037
+      SpritesSopas_27: -5030443048210233327
+      SpritesSopas_28: -5266374080617960792
+      SpritesSopas_29: -175240657303888498
+      SpritesSopas_3: -2566165518877865905
+      SpritesSopas_30: 6427834522332219606
+      SpritesSopas_31: -6664138443865778360
+      SpritesSopas_32: 5034561018886719895
+      SpritesSopas_33: 8429921725058373196
+      SpritesSopas_34: 8644565840331705340
+      SpritesSopas_35: -2483678258206017052
+      SpritesSopas_36: 1733496921702551196
+      SpritesSopas_37: 9117473255016907635
+      SpritesSopas_38: 6950884694425255390
+      SpritesSopas_39: 345676187532519232
+      SpritesSopas_4: -2361984617743223567
+      SpritesSopas_40: -4641114598372230846
+      SpritesSopas_41: 2930603997368575493
+      SpritesSopas_42: -5262138633106302043
+      SpritesSopas_43: 7096406587768214238
+      SpritesSopas_44: 3468121241738282714
+      SpritesSopas_45: -4508543310241225011
+      SpritesSopas_46: -6275084913473862890
+      SpritesSopas_47: -511700447860286412
+      SpritesSopas_5: -3972895566169718623
+      SpritesSopas_6: 4506071716724535754
+      SpritesSopas_7: 1609479088445887920
+      SpritesSopas_8: 811166196876963078
+      SpritesSopas_9: 6324862455930888945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

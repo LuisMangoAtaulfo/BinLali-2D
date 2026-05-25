@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: c1e93919169ee41e3bcb42790a6a4b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -600129039144830244
+    second: SpritesNani_0
+  - first:
+      213: 558638500714607412
+    second: SpritesNani_1
+  - first:
+      213: 4067206182091808484
+    second: SpritesNani_2
+  - first:
+      213: -3643751167707904294
+    second: SpritesNani_3
+  - first:
+      213: -2850025886477414581
+    second: SpritesNani_4
+  - first:
+      213: 602176826783331267
+    second: SpritesNani_5
+  - first:
+      213: 3859997386741055116
+    second: SpritesNani_6
+  - first:
+      213: 9180726064224349704
+    second: SpritesNani_7
+  - first:
+      213: -5545466656040313788
+    second: SpritesNani_8
+  - first:
+      213: 5490068399602344936
+    second: SpritesNani_9
+  - first:
+      213: 2859253789671498164
+    second: SpritesNani_10
+  - first:
+      213: 3595479818064588169
+    second: SpritesNani_11
+  - first:
+      213: -6080190013802178223
+    second: SpritesNani_12
+  - first:
+      213: 2129704880819794888
+    second: SpritesNani_13
+  - first:
+      213: -889710830775653503
+    second: SpritesNani_14
+  - first:
+      213: -2323967836615434866
+    second: SpritesNani_15
+  - first:
+      213: -7174457708229555209
+    second: SpritesNani_16
+  - first:
+      213: -3102042483165081827
+    second: SpritesNani_17
+  - first:
+      213: 1214157547424122249
+    second: SpritesNani_18
+  - first:
+      213: 616254847677631627
+    second: SpritesNani_19
+  - first:
+      213: 1491237423278990124
+    second: SpritesNani_20
+  - first:
+      213: -3377584109412684411
+    second: SpritesNani_21
+  - first:
+      213: 4669265456408572981
+    second: SpritesNani_22
+  - first:
+      213: 7158975567966689627
+    second: SpritesNani_23
+  - first:
+      213: 4905423972063650370
+    second: SpritesNani_24
+  - first:
+      213: -3669191358840976426
+    second: SpritesNani_25
+  - first:
+      213: 52271954945761661
+    second: SpritesNani_26
+  - first:
+      213: -4728862156873237419
+    second: SpritesNani_27
+  - first:
+      213: -7840815311058157929
+    second: SpritesNani_28
+  - first:
+      213: -5731663404652266828
+    second: SpritesNani_29
+  - first:
+      213: -5048948868741193873
+    second: SpritesNani_30
+  - first:
+      213: 7196184642858296787
+    second: SpritesNani_31
+  - first:
+      213: 7033527056658214924
+    second: SpritesNani_32
+  - first:
+      213: 601619094477128794
+    second: SpritesNani_33
+  - first:
+      213: -5002991428045886327
+    second: SpritesNani_34
+  - first:
+      213: -6890027362801057708
+    second: SpritesNani_35
+  - first:
+      213: 4492916739887193714
+    second: SpritesNani_36
+  - first:
+      213: 8255226245863442372
+    second: SpritesNani_37
+  - first:
+      213: 5993658641330816158
+    second: SpritesNani_38
+  - first:
+      213: 529765510336061332
+    second: SpritesNani_39
+  - first:
+      213: 4731527845288054234
+    second: SpritesNani_40
+  - first:
+      213: -5861851157615511934
+    second: SpritesNani_41
+  - first:
+      213: 5737364044860107937
+    second: SpritesNani_42
+  - first:
+      213: -98553759973772928
+    second: SpritesNani_43
+  - first:
+      213: 7540490350858098356
+    second: SpritesNani_44
+  - first:
+      213: 1766952909562782313
+    second: SpritesNani_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesNani_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 567
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda306a81d9eba7f0800000000000000
+      internalID: -600129039144830244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 567
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43373f0b1cea0c700800000000000000
+      internalID: 558638500714607412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 567
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eedadf397e917830800000000000000
+      internalID: 4067206182091808484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 567
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60bde4e9bce6dc0800000000000000
+      internalID: -3643751167707904294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 567
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f88db6e8ca278d0800000000000000
+      internalID: -2850025886477414581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 567
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3746c22ac5b5800800000000000000
+      internalID: 602176826783331267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 481
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ef2ae0c27719530800000000000000
+      internalID: 3859997386741055116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 481
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e234eb6bd786f70800000000000000
+      internalID: 9180726064224349704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 481
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c91fc157b8a03b0800000000000000
+      internalID: -5545466656040313788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 481
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e325ee2f14a03c40800000000000000
+      internalID: 5490068399602344936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 481
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b12f083c2c1ea720800000000000000
+      internalID: 2859253789671498164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 481
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d63d848d5b5e130800000000000000
+      internalID: 3595479818064588169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 395
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159917c8563de9ba0800000000000000
+      internalID: -6080190013802178223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 395
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3fda13e4b3e8d10800000000000000
+      internalID: 2129704880819794888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 395
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bacca96bc17a3f0800000000000000
+      internalID: -889710830775653503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 395
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9a15c09b9fbfd0800000000000000
+      internalID: -2323967836615434866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 395
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb0aece9b43f6c90800000000000000
+      internalID: -7174457708229555209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 395
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f46c00cc453f4d0800000000000000
+      internalID: -3102042483165081827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 310
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98503934bdd89d010800000000000000
+      internalID: 1214157547424122249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 309
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c00f6d4806d8800800000000000000
+      internalID: 616254847677631627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 309
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23205a1980f1b410800000000000000
+      internalID: 1491237423278990124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 309
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de37fc5296021d0800000000000000
+      internalID: -3377584109412684411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 309
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5343c3b91309cc040800000000000000
+      internalID: 4669265456408572981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 310
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59da54695ac95360800000000000000
+      internalID: 7158975567966689627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2422a8fcc11931440800000000000000
+      internalID: 4905423972063650370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 223
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbc95b36e9641dc0800000000000000
+      internalID: -3669191358840976426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 243
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e14ae015b9b000800000000000000
+      internalID: 52271954945761661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c78c34ce4bf5eb0800000000000000
+      internalID: -4728862156873237419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 222
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e3fea5404df2390800000000000000
+      internalID: -7840815311058157929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 222
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7899408a0570b0800000000000000
+      internalID: -5731663404652266828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 147
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f129d11c78ee9b0800000000000000
+      internalID: -5048948868741193873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 148
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a0bf3ecbfdd360800000000000000
+      internalID: 7196184642858296787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 148
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c003632c79b1c9160800000000000000
+      internalID: 7033527056658214924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 184
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54c6600161695800800000000000000
+      internalID: 601619094477128794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 74
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c200d9dcdc19ab0800000000000000
+      internalID: -5002991428045886327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45085835e94b160a0800000000000000
+      internalID: -6890027362801057708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 74
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ed16e68fb0a5e30800000000000000
+      internalID: 4492916739887193714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 74
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70c255884709270800000000000000
+      internalID: 8255226245863442372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 74
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94497d47c0cd2350800000000000000
+      internalID: 5993658641330816158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 74
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f95d1ccea1a5700800000000000000
+      internalID: 529765510336061332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add834fa183c9a140800000000000000
+      internalID: 4731527845288054234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2867d18fd6586aea0800000000000000
+      internalID: -5861851157615511934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac2cf073363f9f40800000000000000
+      internalID: 5737364044860107937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081fb71a0edd1aef0800000000000000
+      internalID: -98553759973772928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_44
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6582bd50435a860800000000000000
+      internalID: 7540490350858098356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesNani_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962255d3f4a758810800000000000000
+      internalID: 1766952909562782313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e9ef20ccd30d341b5b97148217d55f61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SpritesNani_0: -600129039144830244
+      SpritesNani_1: 558638500714607412
+      SpritesNani_10: 2859253789671498164
+      SpritesNani_11: 3595479818064588169
+      SpritesNani_12: -6080190013802178223
+      SpritesNani_13: 2129704880819794888
+      SpritesNani_14: -889710830775653503
+      SpritesNani_15: -2323967836615434866
+      SpritesNani_16: -7174457708229555209
+      SpritesNani_17: -3102042483165081827
+      SpritesNani_18: 1214157547424122249
+      SpritesNani_19: 616254847677631627
+      SpritesNani_2: 4067206182091808484
+      SpritesNani_20: 1491237423278990124
+      SpritesNani_21: -3377584109412684411
+      SpritesNani_22: 4669265456408572981
+      SpritesNani_23: 7158975567966689627
+      SpritesNani_24: 4905423972063650370
+      SpritesNani_25: -3669191358840976426
+      SpritesNani_26: 52271954945761661
+      SpritesNani_27: -4728862156873237419
+      SpritesNani_28: -7840815311058157929
+      SpritesNani_29: -5731663404652266828
+      SpritesNani_3: -3643751167707904294
+      SpritesNani_30: -5048948868741193873
+      SpritesNani_31: 7196184642858296787
+      SpritesNani_32: 7033527056658214924
+      SpritesNani_33: 601619094477128794
+      SpritesNani_34: -5002991428045886327
+      SpritesNani_35: -6890027362801057708
+      SpritesNani_36: 4492916739887193714
+      SpritesNani_37: 8255226245863442372
+      SpritesNani_38: 5993658641330816158
+      SpritesNani_39: 529765510336061332
+      SpritesNani_4: -2850025886477414581
+      SpritesNani_40: 4731527845288054234
+      SpritesNani_41: -5861851157615511934
+      SpritesNani_42: 5737364044860107937
+      SpritesNani_43: -98553759973772928
+      SpritesNani_44: 7540490350858098356
+      SpritesNani_45: 1766952909562782313
+      SpritesNani_5: 602176826783331267
+      SpritesNani_6: 3859997386741055116
+      SpritesNani_7: 9180726064224349704
+      SpritesNani_8: -5545466656040313788
+      SpritesNani_9: 5490068399602344936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
